@@ -1,7 +1,7 @@
 # Algoritmos
 
-
-
+## condicionales con if - else and if
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -22,3 +22,4 @@ int main()
    }
     return 0;
 }
+```
